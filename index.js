@@ -5,3 +5,6 @@ console.log("This is nice exp with git and github");
 const rough = ()=>{
   console.log("Ram is a good boy");  
 }
+
+console.log("Hii");
+console.log("Hello");
