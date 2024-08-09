@@ -1,0 +1,18 @@
+/* add basic style */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+video,.pic {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: .5rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+body{background-color: aliceblue;color:rebeccapurple}
